@@ -16,11 +16,11 @@ A full-stack online retail store project. Includes user login, product listings,
 
 ### Screenshot
 
-[<img src="client/public/register.jpg" height="300"/>]()
-[<img src="client/public/log-in.jpg" height="300"/>]()
-[<img src="client/public/main-page.jpg" height="300"/>]()
-[<img src="client/public/cart.jpg" height="300"/>]()
-[<img src="client/public/product-details.jpg" height="300"/>]()
+[<img src="client/public/register.jpg" height="500"/>]()
+[<img src="client/public/log-in.jpg" height="500"/>]()
+[<img src="client/public/main-page.jpg" height="500"/>]()
+[<img src="client/public/cart.jpg" height="500"/>]()
+[<img src="client/public/product-details.jpg" height="500"/>]()
 
 ### Links
 
