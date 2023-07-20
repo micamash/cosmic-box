@@ -1,6 +1,6 @@
 Cosmic-Box-Online-Shopping
 
-An full-stack online retail store project. Includes user login, product listings, product details, cart, and wishlists.
+A full-stack online retail store project. Includes user login, product listings, product details, cart, and wishlists.
 
 ## Table of contents
 
