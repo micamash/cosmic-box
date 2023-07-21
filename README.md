@@ -38,7 +38,7 @@ A full-stack online retail store project. Includes user login, product listings,
 
 ### Continued development
 
-My next step is finishing the "Add to Wishlist" buttons and the wishlists page.
+My next step is finishing the "Add to Wishlist" buttons and the wishlists page. I will also being turning some portions into individual components such as the footer and search bar.
 
 ## Author
 
